@@ -1,6 +1,11 @@
 # ProjetPi
 Gestion de cabinet medical
 
+inscription:
+code medecin:medecin456
+code assistant:assistant789
+
+connexion:
 Email administrateur:24068@supnum.mr
 password:24068Supnum
 
